@@ -1,2 +1,2 @@
-# ProjetL2Python
-Projet en Python lors de ma L2 Informatique
+# ProjetL2Python - Space Invaders
+Lors de notre L2 nous devions (nous étions 2) réproduire le jeu d'arcade Space Invaders en Python.
